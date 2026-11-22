@@ -2,7 +2,7 @@
 
 A responsive café website built with React and Vite.
 
-**Live demo:** (your Vercel link)
+**Live demo:** (https://brewly-cafe-myn9.vercel.app/)
 
 ![Screenshot](screenshot.png)
 
